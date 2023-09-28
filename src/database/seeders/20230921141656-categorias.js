@@ -7,13 +7,13 @@ module.exports = {
       "Categories",
       [
         {
-          name: "visited",
+          name: "Ultimos visitados",
           image: null,
           createdAt : new Date(),
           updatedAt : new Date(),
         },
         {
-          name: "in-sale",
+          name: "En oferta",
           image: null,
           createdAt : new Date(),
           updatedAt : new Date(),
